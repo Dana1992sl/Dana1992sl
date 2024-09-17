@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dana1992sl" alt="dana1992sl" /></a> </p>
 
-- 🔭 I’m currently working on [VGEN (for vegan community)](https://github.com/Dana1992sl/Vgen-WEB.git)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **SpringBoot, Firebase, Python, Flutter etc.**
 
-- 💬 Ask me about **React, MySQL, JAVA,OOP concepts, DSA**
+- 💬 Ask me about **React, MySQL,OOP concepts, 
 
 - 📫 How to reach me **danamansl123@gmail.com**
 
